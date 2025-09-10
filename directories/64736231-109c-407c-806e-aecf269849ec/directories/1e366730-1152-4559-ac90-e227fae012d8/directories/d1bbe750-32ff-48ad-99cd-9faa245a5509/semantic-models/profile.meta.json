@@ -1,0 +1,20 @@
+{
+  "iri": "db2ad74f-ec45-4d46-84f8-24d36fbb4200/64736231-109c-407c-806e-aecf269849ec/1e366730-1152-4559-ac90-e227fae012d8/d1bbe750-32ff-48ad-99cd-9faa245a5509/profile",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "DCAT 3 Default Application Profile"
+    },
+    "documentBaseUrl": "https://mff-uk.github.io/specifications/dcat-dap/"
+  },
+  "metadata": {
+    "creationDate": "2025-09-10T21:03:49.348Z",
+    "modificationDate": "2025-09-10T21:03:49.502Z"
+  },
+  "_version": 1,
+  "_exportVersion": 1,
+  "_exportedAt": "2025-09-10T21:04:19.594Z",
+  "_exportedBy": "http://localhost:3100"
+}
